@@ -61,61 +61,72 @@
             </div>
         </div>
     </div>
-    <img src="/image/macbook.jpg" class="img-fluid bgimage" style ="margin:100px 0;">
+    <img src="/image/macbook.jpg" class="img-fluid bgimage" style="margin:100px 0;">
 
     <div class="container-fluid">
-            <div class="row">
-                <div class="col-8 text" style="margin-top:50px;">
-                    <p>Ik ben een developer, programmeur, designer, mensen helper, creatieveling en harde
-                        werker, dus ben ik ervan overtuigd dat ik als persoon pas in het team. Bovendien ben ik
-                        leergierig, secuur, werk ik planmatig en ben ik bij uitstek een teamplayer.</p>
-                    <p> Maar ik ben nog lang niet uitgeleerd als junior web developer en kom naast mijn unieke
-                        combinatie van eigenschappen en achtergrond ook om te ontwikkelen en te leren. Ik heb door mijn
-                        traineeship bij CodeGorilla een echte passie en nieuwsgierigheid gekregen in het vak van
-                        programmeren en dat smaakt naar meer.</P>
-                </div>
+        <div class="row">
+            <div class="col-8 text" style="margin-top:50px;">
+                <p>Ik ben een developer, programmeur, designer, mensen helper, creatieveling en harde
+                    werker, dus ben ik ervan overtuigd dat ik als persoon pas in het team. Bovendien ben ik
+                    leergierig, secuur, werk ik planmatig en ben ik bij uitstek een teamplayer.</p>
+                <p> Maar ik ben nog lang niet uitgeleerd als junior web developer en kom naast mijn unieke
+                    combinatie van eigenschappen en achtergrond ook om te ontwikkelen en te leren. Ik heb door mijn
+                    traineeship bij CodeGorilla een echte passie en nieuwsgierigheid gekregen in het vak van
+                    programmeren en dat smaakt naar meer.</P>
             </div>
         </div>
+    </div>
 
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-12" style="margin:150px 0px;">
-                    <ul class="list-translated">
-                        <li class="big">Developer</li>
-                        <li class="big">Designer</li>
-                        <li class="big">Creative</li>
-                        <li class="big">Hard worker</li>
-                        <li class="big">Studious</li>
-                        <li class="big">Teamplayer</li>
-                    </ul>
-                </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12" style="margin:150px 0px;">
+                <ul class="list-translated">
+                    <li class="big">Developer</li>
+                    <li class="big">Designer</li>
+                    <li class="big">Creative</li>
+                    <li class="big">Hard worker</li>
+                    <li class="big">Studious</li>
+                    <li class="big">Teamplayer</li>
+                </ul>
             </div>
         </div>
+    </div>
 
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col" style="margin:250px 0px;">
-                    <p class="intress">Heb ik jou <br>intresse gewekt?</p>
-                </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col" style="margin:250px 0px;">
+                <p class="intress">Heb ik jou <br>intresse gewekt?</p>
             </div>
         </div>
+    </div>
 
-        <div class="container fluid bgimage2">
-            <div class="row">
-                <div class="col-8" style="margin:50px 50px 100px;">
-                    <h2 class="neon">Neem gerust contact met mij op!</h2>
-                    <ul style="margin-top:50px;">
-                        <li class="tekst">ROOMWEG 91-A</li>
-                        <li class="tekst">7523 BM</li>
-                        <li class="tekst">ENSCHEDE</li>
-                        <li class="tekst">0646944691</li>
-                        <li style="margin-top:5px;text-align: center;">
-                            <a href="mailto:marcellavanduyn@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-2x social"></i></a>
-                            <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-2x social"></i></a>
-                            <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked"
-                                    class="fa fa-linkedin-square fa-2x social"></i></a>
-                            <a href="http://marcellahadderingh.herokuapp.com" target="_blank"><i id="user" class="fa fa-user fa-2x social"></i></a>
-                        </li>
-                    </ul>
-                </div>
+    <div class="container fluid bgimage2">
+        <div class="row">
+            <div class="col-8" style="margin:50px 50px 100px;">
+                <h2 class="neon">Neem gerust contact met mij op!</h2>
+                <ul style="margin-top:50px;">
+                    <li class="tekst">ROOMWEG 91-A</li>
+                    <li class="tekst">7523 BM</li>
+                    <li class="tekst">ENSCHEDE</li>
+                    <li class="tekst">0646944691</li>
+                    <li style="margin-top:5px;text-align: center;">
+                        <a href="mailto:marcellavanduyn@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-2x social"></i></a>
+                        <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-2x social"></i></a>
+                        <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked"
+                                class="fa fa-linkedin-square fa-2x social"></i></a>
+                        <a href="http://marcellahadderingh.herokuapp.com" target="_blank"><i id="user" class="fa fa-user fa-2x social"></i></a>
+                    </li>
+                </ul>
             </div>
+        </div>
+    </div>
+
+
+
+        <footer>
+            Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.<br>
+        </footer>
+
+</body>
+
+</html>
