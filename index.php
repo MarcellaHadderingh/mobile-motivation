@@ -8,12 +8,12 @@
 
     <!--bootstrap CSS-->
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css"
+        integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--Main CSS-->
     <link rel="stylesheet" href="/css/main.css">
@@ -66,6 +66,17 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-8 text" style="margin-top:50px;">
+                <p>Ik weet als front-end developer goed hoe je een ontwerp kunt omzetten naar een eindresultaat dat
+                    klikbaar is, intuïtief voor de gebruiker, responsive en eventueel met animaties.
+
+                    Mijn kennis van back-end programmeertalen (PHP en MySQL) zorgt er voor dat ik kunt communiceren met
+                    back-end developers en snapt hoe ik de beste vertaling kunt maken naar een front-end resultaat.
+
+                    Daarbij heb ik ook ervaring met Laravel en kan ik de eenvoudige back-end oplossingen maken, zodat
+                    het team verder kan met moeilijke onderdelen van een opdracht.
+
+                    Mijn Skillsets zijn: HTML, CSS, Javascript, PHP, Git, Bootstrap, Laravel, Linux, Command line, SQL,
+                    Photoshop en kennis van de Scrummethode.</p>
                 <p>Ik ben een developer, programmeur, designer, mensen helper, creatieveling en harde
                     werker, dus ben ik ervan overtuigd dat ik als persoon pas in het team. Bovendien ben ik
                     leergierig, secuur, werk ik planmatig en ben ik bij uitstek een teamplayer.</p>
@@ -79,7 +90,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-12" style="margin:150px 0px;">
+            <div class="col" style="margin:150px 0px;">
                 <ul class="list-translated">
                     <li class="big">Developer</li>
                     <li class="big">Designer</li>
@@ -110,11 +121,14 @@
                     <li class="tekst">ENSCHEDE</li>
                     <li class="tekst">0646944691</li>
                     <li style="margin-top:5px;text-align: center;">
-                        <a href="mailto:marcellavanduyn@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-2x social"></i></a>
-                        <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-2x social"></i></a>
-                        <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked"
-                                class="fa fa-linkedin-square fa-2x social"></i></a>
-                        <a href="http://marcellahadderingh.herokuapp.com" target="_blank"><i id="user" class="fa fa-user fa-2x social"></i></a>
+                        <a href="mailto:marcellavanduyn@gmail.com"><i id="social-em"
+                                class="fa fa-envelope-square fa-2x social"></i></a>
+                        <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git"
+                                class="fa fa-github-square fa-2x social"></i></a>
+                        <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i
+                                id="linked" class="fa fa-linkedin-square fa-2x social"></i></a>
+                        <a href="http://marcellahadderingh.herokuapp.com" target="_blank"><i id="user"
+                                class="fa fa-user fa-2x social"></i></a>
                     </li>
                 </ul>
             </div>
@@ -123,9 +137,9 @@
 
 
 
-        <footer>
-            Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.<br>
-        </footer>
+    <footer>
+        Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.<br>
+    </footer>
 
 </body>
 
